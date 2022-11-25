@@ -1,0 +1,8 @@
+a b
++ A a:C b:A
++ B a:A b:C
+- C a:D b:B
++ D a:E b:A
+- E a:A b:F
++ F a:D a:C b:E
+- G a:C b:E
